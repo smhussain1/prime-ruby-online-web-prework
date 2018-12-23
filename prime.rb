@@ -1,4 +1,4 @@
-def prime?(integers)
+def prime?(n)
   
   
   
