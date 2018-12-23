@@ -1,5 +1,5 @@
 def prime?(n)
- (2..n-1).none? {(divisor) 
+ (2..n-1).none? {|divisor| n%
   
   
 end
